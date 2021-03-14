@@ -1,6 +1,6 @@
 ---
 role: M.S. Student
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, artificial
   intelligence and linguistics.
 interests:
@@ -44,4 +44,4 @@ email: ""
 ---
 I am a 2nd-year M.S. student in Computer Science at the University of Maryland, College Park.  I work with Doug Oard in the CLIP lab.  I also work with Matt Post at the HLTCOE at Johns Hopkins University.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation evaluation, speech translation, and information retrieval.  I plan to begin a Ph.D. program in Fall 2021.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/bremerman_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
