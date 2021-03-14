@@ -1,7 +1,7 @@
 ---
 title: Two Test Collections for Retrieval Using Named Entity Markup
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
   - Dawn Lawrie
