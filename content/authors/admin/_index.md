@@ -22,7 +22,7 @@ social:
     link: https://github.com/jlbrem
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/bremerman
+    link: https://www.linkedin.com/in/bremerman
 organizations:
   - name: University of Maryland
     url: https://www.cs.umd.edu/
