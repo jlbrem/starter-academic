@@ -4,12 +4,12 @@ title: The JHU Submission to the 2020 Duolingo Shared Task on Simulatneous
 publication_types:
   - "1"
 authors:
-  - Khayrallah
-  - Huda and admin and McCarthy
-  - Arya D. and Murray
-  - Kenton and Wu
-  - Winston and Post
-  - Matt
+  - Huda Khayrallah
+  - admin
+  - Arya D. McCarthy
+  - Kenton Murray
+  - Winston Wu
+  - Matt Post
 doi: 10.18653/v1/2020.ngt-1.22
 publication: Proceedings of the Fourth Workshop on Neural Generation and
   Translation, Association for Computational Linguistics
