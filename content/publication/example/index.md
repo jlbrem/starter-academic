@@ -32,7 +32,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: false
-date: 2021-03-14T00:40:22.387Z
+date: 2021-02-02T00:40:00.000Z
 url_slides: ""
 title: The Multilingual TEDx Corpus for Speech Recognition and Translation
 tags: []
@@ -41,7 +41,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
