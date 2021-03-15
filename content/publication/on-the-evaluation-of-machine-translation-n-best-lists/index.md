@@ -3,10 +3,10 @@ title: On the Evaluation of Machine Translation n-best Lists
 publication_types:
   - "1"
 authors:
-  - admin and Khayrallah
-  - Huda and Oard
-  - Douglas and Post
-  - Matt
+  - admin
+  - Huda Khayrallah
+  - Douglas W Oard
+  - Matt Post
 draft: false
 featured: false
 image:
