@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: University of Maryland, CLIP lab
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: College Park, Maryland
+    date_start: '2019-08-31'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Graduate student researcher at the University of Maryland CLIP lab, funded by Human Language Technology Center of Excellence at Johns Hopkins University. Works with Douglas W Oard and Matt Post on research projects in machine/speech translation, information retrieval.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Visiting Research Scholar
+    company: Human Language Technology Center of Excellence
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Baltimore, Maryland
+    date_start: '2019-05-01'
+    date_end: '2016-08-30'
+    description: Research intern at HLTCOE at JHU. Worked with James Mayfield and Dawn Lawrie on research project in named-entity recognition and information retrieval.
+    
+  - title: Program Coordinator
+    company: University of Maryland Honors College
+    company_url: ''
+    location: College Park, Maryland
+    date_start: '2017-10-01'
+    date_end: '2019-04-01'
+    description: Administrative staff for cybersecurity and entrepreneurship honors programs at UMD. Supported students and program operations in various facets, such as managing $5M scholarship budget, advising students, event planning, curriculum development, program evaluation, etc.
 ---
