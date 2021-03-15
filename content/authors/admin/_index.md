@@ -4,9 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, artificial
   intelligence and linguistics.
 interests:
+  - Natural Language Processing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Linguistics
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,11 +36,11 @@ education:
       year: 2017
     - course: BA in Spanish
       institution: University of Maryland, College Park
-      year: 2013
+      year: 2017
 superuser: true
 highlight_name: false
 title: Jacob Bremerman
-email: ""
+email: "jbrem@umd.edu"
 ---
 I am a 2nd-year M.S. student in Computer Science at the University of Maryland, College Park.  I work with Doug Oard in the CLIP lab.  I also work with Matt Post at the HLTCOE at Johns Hopkins University.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation evaluation, speech translation, and information retrieval.  I plan to begin a Ph.D. program in Fall 2021.
 
