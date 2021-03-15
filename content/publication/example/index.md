@@ -27,7 +27,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: ""
+publication_short: arXiv
 url_source: ""
 url_video: ""
 publication: ""
