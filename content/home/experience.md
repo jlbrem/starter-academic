@@ -35,7 +35,7 @@ experience:
     company_url: ''
     location: Baltimore, Maryland
     date_start: '2019-05-01'
-    date_end: '2016-08-30'
+    date_end: '2019-08-30'
     description: Research intern at HLTCOE at JHU. Worked with James Mayfield and Dawn Lawrie on research project in named-entity recognition and information retrieval.
     
   - title: Program Coordinator
