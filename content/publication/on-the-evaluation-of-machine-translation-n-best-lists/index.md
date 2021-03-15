@@ -7,6 +7,10 @@ authors:
   - Huda Khayrallah
   - Douglas W Oard
   - Matt Post
+doi: 10.18653/v1/2020.eval4nlp-1.7
+publication: Proceedings of the First Workshop on Evaluation and Comparison of
+  NLP Systems, Association for Computational Linguistics
+publication_short: Eval4NLP, EMNLP 2020
 abstract: The standard machine translation evaluation framework measures the
   single-best output of machine translation systems. There are, however, many
   situations where n-best lists are needed, yet there is no established way of
