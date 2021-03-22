@@ -11,7 +11,7 @@ abstract: "We present the Multilingual TEDx corpus, built to support speech
   including multilingual models to improve translation performance for
   low-resource language pairs. "
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2102.01757.pdf"
 publication_types:
   - "3"
 authors:
