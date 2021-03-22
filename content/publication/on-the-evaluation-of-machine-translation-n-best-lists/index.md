@@ -26,6 +26,7 @@ abstract: The standard machine translation evaluation framework measures the
   evaluating the closeness of the many items in an n-best list to a set of many
   valid references. These three perspectives make clear that having access to
   many references can be useful when n-best evaluation is the goal.
+url_pdf: https://www.aclweb.org/anthology/2020.eval4nlp-1.7.pdf
 draft: false
 featured: false
 image:
