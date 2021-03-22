@@ -25,6 +25,7 @@ abstract: Studying the effects of semantic analysis on retrieval effectiveness
   topic aspects that each have at least one relevant document. Named entity tags
   were automatically generated for the documents in both collections. Use of the
   test collections is illustrated with some preliminary experiments.
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3340531.3417452?casa_token=gUuMoXPta_sAAAAA:hO_JngG-ADYqC_fEs4fRoWhfyF2kJuPjQCtGuBLQppxfOn7NuVIiLRbO3xMYXj4Kp27CVg4ijEop3w
 draft: false
 featured: false
 image:
