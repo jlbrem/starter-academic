@@ -26,6 +26,7 @@ abstract: "This paper presents the Johns Hopkins University submission to the
   success. We also find that improving BLEU performance of the beam-search
   generated translation does not necessarily improve on the task metric—weighted
   macro F1 of an n-best list."
+url_pdf: https://www.aclweb.org/anthology/2020.ngt-1.22.pdf
 draft: false
 featured: false
 image:
