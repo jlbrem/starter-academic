@@ -28,3 +28,7 @@ main:
   - name: Resume
     url: uploads/Resume.pdf
     weight: 70
+    
+  - name: CV
+    url: uploads/CV.pdf
+    weight: 90
