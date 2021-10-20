@@ -1,5 +1,5 @@
 ---
-role: M.S. Student
+role: Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, artificial
   intelligence and linguistics.
@@ -10,7 +10,7 @@ bio: My research interests include natural language processing, artificial
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:jbrem@umd.edu
+    link: mailto:jbrem@usc.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JLBrem
@@ -24,10 +24,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/bremerman
 organizations:
-  - name: University of Maryland
-    url: https://www.cs.umd.edu/
+  - name: University of Southern California
+    url: https://www.cs.usc.edu/
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Southern California
+      year: 2025
     - course: MS in Computer Science
       institution: University of Maryland, College Park
       year: 2021
@@ -40,6 +43,6 @@ education:
 superuser: true
 highlight_name: true
 title: Jacob Bremerman
-email: "jbrem@umd.edu"
+email: "jbrem@usc.edu"
 ---
-I am a 2nd-year M.S. student in Computer Science at the University of Maryland, College Park.  I work with Doug Oard in the CLIP lab.  I also work with Matt Post at the HLTCOE at Johns Hopkins University.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation evaluation, speech translation, and information retrieval.  I plan to begin a Ph.D. program in Fall 2021.
+I am a 1st year Ph.D. student in Computer Science at the University of Southern California.  I work with Xiang Ren and Jonathan May.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation evaluation, speech translation, and information retrieval.
