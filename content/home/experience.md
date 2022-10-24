@@ -23,12 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
+    company: University of Southern California, INK lab, [CUTE LAB NAME] lab
+    company_url: ''
+    location: Los Angeles, California
+    date_start: '2021-09-16'
+    date_end: ''
+    description: Graduate student researcher at the University of Southern California. Works with Xiang Ren (INK) and Jonathan May ([CUTE LAB NAME]) on research projects in machine translation robustness, language model grounding.
+    
+  - title: Research Intern
+    company: Universidade da Coruña
+    location: La Coruña, Spain
+    date_start: '2021-06-15'
+    date_end: '2021-09-15'
+    description: Short graduate student internship working with David Vilares on Machine Translation and Parsing.
+
+  - title: Research Assistant
     company: University of Maryland, CLIP lab
     company_url: ''
     location: College Park, Maryland
     date_start: '2019-08-31'
-    date_end: ''
-    description: Graduate student researcher at the University of Maryland CLIP lab, funded by Human Language Technology Center of Excellence at Johns Hopkins University. Works with Douglas W Oard and Matt Post on research projects in machine/speech translation, information retrieval.
+    date_end: '2021-05-31'
+    description: Graduate student researcher at the University of Maryland CLIP lab, funded by Human Language Technology Center of Excellence at Johns Hopkins University. Worked with Douglas W Oard and Matt Post on research projects in machine/speech translation, information retrieval.
         
   - title: Visiting Research Scholar
     company: Human Language Technology Center of Excellence
