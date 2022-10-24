@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/JLBrem
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=uK6I4g8AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=JluXllsAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/jlbrem
@@ -45,4 +45,4 @@ highlight_name: true
 title: Jacob Bremerman
 email: "jbrem@usc.edu"
 ---
-I am a 1st year Ph.D. student in Computer Science at the University of Southern California.  I work with Xiang Ren and Jonathan May.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation evaluation, speech translation, and information retrieval.
+I am a 2nd year Ph.D. student in Computer Science at the University of Southern California.  I work with Xiang Ren and Jonathan May.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation robustness and dialgue grounding in text games.
