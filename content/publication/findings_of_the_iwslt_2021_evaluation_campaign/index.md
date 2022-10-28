@@ -3,24 +3,24 @@ title: FINDINGS OF THE IWSLT 2021 EVALUATION CAMPAIGN
 publication_types:
   - "1"
 authors:
-  - Antonios Anastasopoulos -
-  - Ondřej Bojar -
-  - admin -
+  - Antonios Anastasopoulos 
+  - Ondřej Bojar 
+  - admin 
   - Roldano Cattoni
-  -  Maha Elbayad
-  -  Marcello Federico
-  -  Xutai Ma
-  -  Satoshi Nakamura
-  -  Matteo Negri
-  -  Jan Niehues
-  -  Juan Pino
-  -  Elizabeth Salesky
-  -  Sebastian Stüker
-  -  Katsuhito Sudoh
-  -  Marco Turchi
-  -  Alexander Waibel
-  -  Changhan Wang
-  -  Matthew Wiesner
+  - Maha Elbayad
+  - Marcello Federico
+  - Xutai Ma
+  - Satoshi Nakamura
+  - Matteo Negri
+  - Jan Niehues
+  - Juan Pino
+  - Elizabeth Salesky
+  - Sebastian Stüker
+  - Katsuhito Sudoh
+  - Marco Turchi
+  - Alexander Waibel
+  - Changhan Wang
+  - Matthew Wiesner
 doi: 10.18653/v1/2021.iwslt-1.1
 publication: Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)
 publication_short: IWSLT, ACL 2021
