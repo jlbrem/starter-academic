@@ -23,7 +23,6 @@ authors:
   - Matthew Wiesner
 doi: https://doi.org/10.18653/v1/2021.iwslt-1.1
 publication: Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)
-publication_short: IWSLT
 abstract: The evaluation campaign of the International Conference on Spoken Language Translation (IWSLT 2021) featured this year four shared tasks: (i) Simultaneous speech translation, (ii) Offline speech translation, (iii) Multilingual speech translation, (iv) Low-resource speech translation. A total of 22 teams participated in at least one of the tasks. This paper describes each shared task, data and evaluation metrics, and reports results of the received submissions.
 url_pdf: https://aclanthology.org/2021.iwslt-1.1.pdf
 draft: false
