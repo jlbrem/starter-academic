@@ -23,7 +23,7 @@ authors:
   - Matthew Wiesner
 doi: https://doi.org/10.18653/v1/2021.iwslt-1.1
 publication: Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)
-publication_short: CIKM '20
+publication_short: IWSLT, ACL 2021
 abstract: Studying the effects of semantic analysis on retrieval effectiveness
   can be difficult using standard test collections because both queries and
   documents typically lack semantic markup. This paper describes extensions to
