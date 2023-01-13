@@ -24,7 +24,7 @@ authors:
 doi: 10.18653/v1/2021.iwslt-1.1
 publication: Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)
 publication_short: IWSLT
-abstract: The evaluation campaign of the International Conference on Spoken Language Translation (IWSLT 2021) featured this year four shared tasks: (i) Simultaneous speech translation
+abstract: The evaluation campaign of the International Conference on Spoken Language Translation (IWSLT 2021) featured this year four shared tasks: (i)
 url_pdf: https://aclanthology.org/2021.iwslt-1.1.pdf
 draft: false
 featured: false
