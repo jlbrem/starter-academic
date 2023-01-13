@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Student
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, artificial
   intelligence and linguistics.
