@@ -45,4 +45,4 @@ highlight_name: true
 title: Jacob Bremerman
 email: "jbrem@usc.edu"
 ---
-I am a 2nd year Ph.D. student in Computer Science at the University of Southern California.  I work with Xiang Ren and Jonathan May.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation robustness and dialgue grounding in text games.
+I am a 4th year Ph.D. student in Computer Science at the University of Southern California.  I work with Xiang Ren and Jonathan May.  My research interests are primarily in natural language processing and extend to artificial intelligence and lingustics.  I am interested particularly in multi-/cross-linguality and second-language acquisition.  Recently, I have been working on projects in machine translation robustness and dialgue grounding in text games.
